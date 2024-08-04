@@ -1,6 +1,23 @@
-.space  {height: 100px;}
+.space  {height: 125px;}
 .box {
-    height: 210px;
+    height: 350px;
     background-color:grey;
-    width: 250px;
+    width: 650px;;
+}
+
+.space2 { height: 50px;}
+
+#bag {background-color: antiquewhite;height:175px; width: 500px;}
+
+
+
+.col-6 {height:175px;}
+
+
+
+#yell {margin-top: -27% ;
+margin-left: 2.6%;}
+
+
+#fake {background-color: antiquewhite;height:175px;
 }
